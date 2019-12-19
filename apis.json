@@ -1,0 +1,83 @@
+{
+    "name": "Dribbble",
+    "description": "Shots from popular and up and coming designers in the Dribbble community, your best resource to discover and connect with designers worldwide.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/580-dribbble.jpg",
+    "tags": [
+        "api provider",
+        "creative",
+        "have api",
+        "marketplaces",
+        "screenshots"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dribbble\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dribbble",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/580-dribbble.jpg",
+            "humanURL": "https:\/\/dribbble.com\/integrations\/slack",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dribbble-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.dribbble.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.dribbble.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.dribbble.com\/rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dribbble"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/dribbble"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/dribbble.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "dmca@dribbble.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/dribbble"
+        },
+        {
+            "type": "Privacy",
+            "url": "https:\/\/dribbble.com\/privacy"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dribbble"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dribbble.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/dribbble.com\/integrations\/slack"
+        }
+    ]
+}
